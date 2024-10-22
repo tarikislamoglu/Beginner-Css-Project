@@ -1,0 +1,19 @@
+/*Main*/
+.container button {
+  width: 100%;
+  margin: 20px 0px;
+  padding: 5px;
+  background-color: #f0b7a8;
+}
+.container a {
+  color: #8c3118;
+  font-size: 20px;
+}
+.text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text_part {
+  padding-left: 25px;
+}
