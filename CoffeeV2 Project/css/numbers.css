@@ -1,0 +1,16 @@
+/*Main*/
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container table,
+th,
+td {
+  border: 2px solid black;
+  text-align: center;
+}
+.container table {
+  width: 1000px;
+  height: 250px;
+}
